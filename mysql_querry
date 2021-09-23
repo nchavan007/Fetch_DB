@@ -1,0 +1,10 @@
+{
+"DB_USER" : "root",
+"DB_PASSWD" : "Qwer@123",
+"DB_HOST" : "localhost",
+"DB_NAME" :  "testdb",
+"DB_PORT" : "3306",
+"DB_FIELD": "<add the parameters to fetch in sequence by comma seperated",
+"TABLE_NAME": "<table name>",
+"APP_CODE": "<APP CODE NAME>"
+}
