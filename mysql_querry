@@ -4,7 +4,12 @@
 "DB_HOST" : "172.25.2.117",
 "DB_NAME" :  "test_deep",
 "DB_PORT" : 3306,
-"DB_FIELD": "server_dbID, app_code, app_name, server_platform, server_version, hostname_ip, hostEnvironment",
 "TABLE_NAME": "Testtable",
+"DB_FIELD": "server_dbID, app_code, app_name, server_platform, server_version, hostname_ip, hostEnvironment",
+"PROD_OS_XL": "template1_prod_OS.xlsx",
+"PROD_DB_XL": "template1_prod_DB.xlsx",
+"NONPROD_OS_XL": "template1_nonprod_OS.xlsx",
+"NONPROD_DB_XL": "template1_nonprod_DB.xlsx",
+"ROW_NO": 2,
 "APP_CODE": 5
 }
